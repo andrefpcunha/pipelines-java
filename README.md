@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/andrecunhaLABS/LabESX/_apis/build/status/andrefpcunha.pipelines-java?branchName=master)](https://dev.azure.com/andrecunhaLABS/LabESX/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
